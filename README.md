@@ -1,10 +1,3 @@
-## Para converter o texto que você forneceu em formato Markdown, basta colar o texto dentro de um arquivo com a extensão `.md` e salvar. 
-
-**O GitHub renderizará automaticamente o Markdown para você, transformando o texto simples em um formato mais visual e organizado.**
-
-**No entanto, para te ajudar a visualizar como o texto ficaria formatado, aqui está uma versão com alguns elementos básicos de Markdown:**
-
-```markdown
 ## Animal Crossing: Sua Busca Pessoal por Ilhas Desertas! ️
 
 **O que é isso?**
