@@ -15,7 +15,7 @@ Essa é uma simples aplicação web que te ajuda a encontrar tudo o que você pr
 * **JavaScript:** A mágica por trás da busca!
 
 **Como usar em casa:**
-1. **Clone o repositório:** Use o bom e velho `https://imersao-alura-e-gemini-gilt.vercel.app/` para baixar tudo para o seu computador.
+1. **Clone o repositório:** Faça um clone desse repositório em seu computador.
 2. **Abra o index.html:** É só abrir o arquivo `index.html` no seu navegador favorito.
 3. **Comece a explorar:** Divirta-se buscando tudo o que quiser sobre Animal Crossing!
 
