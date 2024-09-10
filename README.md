@@ -15,7 +15,7 @@ Essa é uma simples aplicação web que te ajuda a encontrar tudo o que você pr
 * **JavaScript:** A mágica por trás da busca!
 
 **Como usar em casa:**
-1. **Clone o repositório:** Use o bom e velho `git clone https://es.wiktionary.org/wiki/removido` para baixar tudo para o seu computador.
+1. **Clone o repositório:** Use o bom e velho `https://imersao-alura-e-gemini-gilt.vercel.app/` para baixar tudo para o seu computador.
 2. **Abra o index.html:** É só abrir o arquivo `index.html` no seu navegador favorito.
 3. **Comece a explorar:** Divirta-se buscando tudo o que quiser sobre Animal Crossing!
 
@@ -33,29 +33,4 @@ Essa aplicação é gratuita e open-source. Use-a à vontade, mas por favor, man
 
 **Disclaimer:** Essa aplicação não tem nenhuma afiliação oficial com o jogo Animal Crossing. É apenas um projeto feito por fãs para fãs.
 
-**Vamos juntos tornar essa aplicação a melhor ferramenta para os amantes de Animal Crossing!** 
-```
-
-**O que cada parte faz:**
-
-* **#:** Cria um título de nível 1
-* **##:** Cria um título de nível 2
-* ***:** Cria itálico
-* ****:** Cria negrito
-* **>:** Cria um bloco de citação
-* **```:** Cria um bloco de código
-* **-:** Cria uma lista não ordenada
-
-**Para personalizar ainda mais:**
-
-* **Links:** Use `[texto do link](link)` para criar links.
-* **Imagens:** Use `![texto alternativo](link da imagem)` para adicionar imagens.
-* **Tabelas:** Use pipes (`|`) para criar tabelas.
-
-**Recursos adicionais:**
-
-* **Guia completo de Markdown:** https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-**Com este guia, você poderá criar READMEs mais completos e personalizados para seus projetos no GitHub!**
-
-**Gostaria de aprender mais sobre alguma funcionalidade específica do Markdown?**
+**Vamos juntos tornar essa aplicação a melhor ferramenta para os amantes de Animal Crossing!**
