@@ -15,6 +15,6 @@ let dados = [
         titulo : "K.K. Slider",
         descricao : "Um músico e DJ viajante.",
         link : "https://en.wikipedia.org/wiki/K.K._Slider",
-        tags : "músico música musico musica dj"
+        tags : "músico música musico musica dj kk"
     },
 ];
